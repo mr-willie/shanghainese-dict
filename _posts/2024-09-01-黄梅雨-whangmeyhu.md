@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 黄梅雨 whangmeyhu
+title: 黄梅雨 whang·me·yhu
 tags:
   - <名>
 pinyin: 

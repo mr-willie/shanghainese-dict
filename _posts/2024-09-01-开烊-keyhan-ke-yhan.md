@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 开烊 'keyhan / 'ke yhan 
+title: 开烊 'ke·yhan / 'ke yhan 
 tags:
 pinyin: 
   - keyhan #上海话拼音。无需标注阴平，无需因变调留空格。 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 大头利息 'dhudhoulixik
+title: 大头利息 'dhu·dhou·li·xik
 tag:
   - <名>
 pinyin: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 鼋头渚 nyuoedhouzy
+title: 鼋头渚 nyuoe·dhou·zy
 tags:
   - <名>
 pinyin: 

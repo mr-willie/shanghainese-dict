@@ -1,10 +1,9 @@
 ---     
 layout: post    
-title: 白玉兰 bhaknuikle / bhakniokle    
+title: 白玉兰 bhak·niok·le    
 tags:    
   - <名>       
 pinyin:       
-  - bhaknuikle    
   - bhakniokle    
   - baiyulan       
 keyword:     

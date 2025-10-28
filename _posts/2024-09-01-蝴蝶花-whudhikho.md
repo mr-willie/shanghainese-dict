@@ -1,6 +1,6 @@
 ---     
 layout: post    
-title: 蝴蝶花whudhikho     
+title: 蝴蝶花 whu·dhik·ho     
 tags:      
   - <名>     
 pinyin:       

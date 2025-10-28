@@ -1,6 +1,6 @@
 ---     
 layout: post    
-title: 矮脚牵牛 ajikqiniu    
+title: 矮脚牵牛 a·jik·qi·niu    
 tags:      
   - <名>     
 pinyin:       

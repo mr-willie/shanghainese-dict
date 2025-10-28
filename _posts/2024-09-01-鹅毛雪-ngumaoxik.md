@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 鹅毛雪 ngumaoxik 
+title: 鹅毛雪 ngu·mao·xik 
 tags:
   - <名>
 pinyin: 

@@ -1,11 +1,10 @@
 ---     
 layout: post    
-title: 芙蓉(花) fhuyhongho / fhuyhong    
+title: 芙蓉花 fhu·yhong·ho
 tags:    
   - <名>     
 pinyin:       
   - fhuyhongho    
-  - fhuyhong     
   - furonghua      
 keyword:     
 ---    

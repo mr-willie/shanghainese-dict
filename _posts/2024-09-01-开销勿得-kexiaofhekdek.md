@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 开销勿得 'kexiaofhekdek
+title: 开销勿得 'ke·xiao·fhek·dek
 tag:
-  -〈动〉
+  - <动>
 pinyin: 
   - kexiaofhekdek
   - kaixiaowude

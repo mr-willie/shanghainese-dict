@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 吃赔账 'qikbhezan
+title: 吃赔账 'qik·bhe·zan
 tag:
   - <动>
 pinyin: 

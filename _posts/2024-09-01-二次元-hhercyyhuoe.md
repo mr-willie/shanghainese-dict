@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 二次元 hhercyyhuoe
+title: 二次元 hher·cy·yhuoe
 tags:
   - <名>
   - 【文】

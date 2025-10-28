@@ -1,6 +1,6 @@
 ---     
 layout: post    
-title: 凤仙花 bhongxiho / fhongxiho    
+title: 凤仙花 bhong·xi·ho / fhong·xi·ho    
 tags:      
   - <名>     
 pinyin:       

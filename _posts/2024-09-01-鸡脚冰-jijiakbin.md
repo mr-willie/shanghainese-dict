@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 鸡脚冰 'jijiakbin 
+title: 鸡脚冰 'ji·jiak·bin 
 tags:
   - <名>
 pinyin: 

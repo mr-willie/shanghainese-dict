@@ -1,15 +1,13 @@
 ---     
 layout: post    
-title: 菊花 juikho / jiokho    
+title: 百合花 bak·hhek·ho      
 tags:      
   - <名>     
 pinyin:       
-  - juikho    
-  - jiokho      
-  - juhua      
+  - bakhhakho    
+  - baihehua      
 keyword:     
 ---    
 
 【释义】 花名。    
-
 

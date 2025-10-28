@@ -1,11 +1,10 @@
 ---     
 layout: post    
-title: 海棠(花) hedhangho / hedhang    
+title: 海棠花 he·dhang·ho    
 tags:      
   - <名>     
 pinyin:       
   - hedhangho    
-  - hedhang    
   - haitanghua    
 keyword:     
 ---    

@@ -1,6 +1,6 @@
 ---     
 layout: post    
-title: 蝴蝶兰 whudhikle  
+title: 蝴蝶兰 whu·dhik·le  
 tags:    
   - <名>       
 pinyin:       

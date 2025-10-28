@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 倒轧账 'daoghakzan
+title: 倒轧账 'dao·ghak·zan
 tag:
   - <动>
 pinyin: 

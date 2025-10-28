@@ -1,6 +1,6 @@
 ---    
 layout: post    
-title: 经济舱 'jinjicang    
+title: 经济舱 'jin·ji·cang    
 tags:    
   - <名>    
 pinyin:     
