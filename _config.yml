@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: 上海言话在线辞典 
+name: 上海言话在线辞典 Beta 版 
 
 # Short bio or description (displayed in the header)
 description: Shanghainese Dictionary Online 
@@ -39,10 +39,10 @@ paginate: 10
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
-  email: xiaohueihueeei@qq.com
+  email: han.junhui.06@outlook.com
   facebook:
   flickr:
-  github: josephhaaan
+  github: mr-willie
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram: 
   linkedin:
