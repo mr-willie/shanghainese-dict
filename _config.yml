@@ -47,14 +47,14 @@ footer-links:
   instagram: 
   linkedin:
   pinterest:
-  rss: kawahui # just type anything here for a working RSS icon
+  rss: Willie # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   tumblr: # https://<username>.tumblr.com
   twitter: 
   youtube:  # channel/<your_long_string> or user/<user-name>
 
 # Text under the icons in footer
-footer-text: Copyright © www.kawahui.com 2025. All rights reserved.
+footer-text: Copyright © 辉的小作坊 2025. All rights reserved.
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
