@@ -8,6 +8,6 @@ permalink: /about/
 
 以下是参与编写人员的名单（不分先后）：                       
 
-| [小灰灰](https://www.xiaohuihui.sh.cn/about) | 源神 | 乌鸦肉 |           
+| [Willie](https://mr-willie.github.io/about) | 源神 | 乌鸦肉 |           
 | :---: | :---: | :---: |           
-| 壮壮 | 春生藤 |  |           
+| zz. | masc |  |           
